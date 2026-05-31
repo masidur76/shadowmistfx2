@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Layout from './components/layout/Layout';
-import Home from './pages/Home';
-import About from './pages/About';
-import Portfolio from './pages/Portfolio';
-import Store from './pages/Store';
-import ContentHub from './pages/ContentHub';
-import Contact from './pages/Contact';
+import Layout from './Layout';
+import Home from './Home';
+import About from './About';
+import Portfolio from './Portfolio';
+import Store from './Store';
+import ContentHub from './ContentHub';
+import Contact from './Contact';
 
 function App() {
   return (
